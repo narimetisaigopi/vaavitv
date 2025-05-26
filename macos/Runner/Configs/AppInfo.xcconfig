@@ -8,7 +8,7 @@
 PRODUCT_NAME = vaavitv
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.vaavitv
+PRODUCT_BUNDLE_IDENTIFIER = com.vaavitvapp
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.

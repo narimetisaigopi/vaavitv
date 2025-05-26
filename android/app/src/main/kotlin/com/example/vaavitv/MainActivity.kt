@@ -1,4 +1,4 @@
-package com.vaavitv
+package com.vaavitvapp
 
 import io.flutter.embedding.android.FlutterActivity
 
